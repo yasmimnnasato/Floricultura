@@ -1,0 +1,165 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Rosas Vermelhas",
+        "categoria": "Flores",
+        "preco": 60.00,
+        "descricao": "Buquê de 12 rosas vermelhas.",
+        "estoque": 10
+      },
+      {
+        "id": 2,
+        "nome": "Orquídea Branca",
+        "categoria": "Flores",
+        "preco": 100.00,
+        "descricao": "Vaso de orquídeas brancas.",
+        "estoque": 5
+      },
+      {
+        "id": 3,
+        "nome": "Girassol",
+        "categoria": "Flores",
+        "preco": 25.00,
+        "descricao": "Girassol unitário com embalagem especial.",
+        "estoque": 15
+      },
+      {
+        "id": 4,
+        "nome": "Lírio Branco",
+        "categoria": "Flores",
+        "preco": 80.00,
+        "descricao": "Buquê de lírios brancos.",
+        "estoque": 8
+      },
+      {
+        "id": 5,
+        "nome": "Tulipas Coloridas",
+        "categoria": "Flores",
+        "preco": 120.00,
+        "descricao": "Arranjo com tulipas de várias cores.",
+        "estoque": 6
+      },
+      {
+        "id": 6,
+        "nome": "Margaridas",
+        "categoria": "Flores",
+        "preco": 30.00,
+        "descricao": "Buquê simples de margaridas amarelas.",
+        "estoque": 12
+      },
+      {
+        "id": 7,
+        "nome": "Violeta Roxa",
+        "categoria": "Flores",
+        "preco": 15.00,
+        "descricao": "Vaso pequeno de violeta roxa.",
+        "estoque": 20
+      },
+      {
+        "id": 8,
+        "nome": "Begônia Vermelha",
+        "categoria": "Flores",
+        "preco": 40.00,
+        "descricao": "Vaso de begônias vermelhas.",
+        "estoque": 7
+      },
+      {
+        "id": 9,
+        "nome": "Arranjo de Rosas e Lírios",
+        "categoria": "Arranjos",
+        "preco": 150.00,
+        "descricao": "Arranjo sofisticado de rosas e lírios.",
+        "estoque": 4
+      },
+      {
+        "id": 10,
+        "nome": "Cacto Pequeno",
+        "categoria": "Plantas",
+        "preco": 20.00,
+        "descricao": "Vaso pequeno de cacto.",
+        "estoque": 15
+      },
+      {
+        "id": 11,
+        "nome": "Suculenta Variada",
+        "categoria": "Plantas",
+        "preco": 18.00,
+        "descricao": "Mini suculenta em vaso de cerâmica.",
+        "estoque": 10
+      },
+      {
+        "id": 12,
+        "nome": "Vaso de Madeira Decorado",
+        "categoria": "Acessórios",
+        "preco": 55.00,
+        "descricao": "Vaso de madeira artesanal para plantas.",
+        "estoque": 5
+      },
+      {
+        "id": 13,
+        "nome": "Fertilizante Orgânico",
+        "categoria": "Acessórios",
+        "preco": 35.00,
+        "descricao": "Fertilizante natural para flores e plantas.",
+        "estoque": 20
+      },
+      {
+        "id": 14,
+        "nome": "Regador Decorado",
+        "categoria": "Acessórios",
+        "preco": 45.00,
+        "descricao": "Regador metálico decorativo.",
+        "estoque": 8
+      },
+      {
+        "id": 15,
+        "nome": "Terra Adubada",
+        "categoria": "Acessórios",
+        "preco": 25.00,
+        "descricao": "Saco de 5kg de terra adubada.",
+        "estoque": 10
+      },
+      {
+        "id": 16,
+        "nome": "Kit de Jardinagem",
+        "categoria": "Acessórios",
+        "preco": 90.00,
+        "descricao": "Kit com pá, tesoura e luvas de jardinagem.",
+        "estoque": 6
+      },
+      {
+        "id": 17,
+        "nome": "Arranjo de Rosas Azuis",
+        "categoria": "Arranjos",
+        "preco": 180.00,
+        "descricao": "Arranjo exclusivo de rosas azuis.",
+        "estoque": 3
+      },
+      {
+        "id": 18,
+        "nome": "Rosas Cor de Chá",
+        "categoria": "Flores",
+        "preco": 70.00,
+        "descricao": "Buquê de 10 rosas cor de chá.",
+        "estoque": 9
+      },
+      {
+        "id": 19,
+        "nome": "Lavanda Fresca",
+        "categoria": "Flores",
+        "preco": 50.00,
+        "descricao": "Ramo fresco de lavanda perfumada.",
+        "estoque": 10
+      },
+      {
+        "id": 20,
+        "nome": "Vela Perfumada Floral",
+        "categoria": "Acessórios",
+        "preco": 40.00,
+        "descricao": "Vela aromática com essência floral.",
+        "estoque": 12
+      }
+    ]
+  }
+  
