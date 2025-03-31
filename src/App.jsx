@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import './App.css'
-import Home from './pages/Home';
-import Produtos from './pages/Produtos';
-import Sobre from './pages/Sobre';
+import Home from './Pages/Home';
+import Produtos from './Pages/Produtos';
+import Sobre from './Pages/Sobre';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; 
 
 function App() {
@@ -12,6 +12,9 @@ function App() {
     <>
       <header>
         <nav>
+          <div logo>
+         <img src="C:\Users\adeni\Downloads\image-removebg-preview.png"/>
+          </div>
           <ul>
             <li>
               <a href="/">Home</a>
@@ -24,8 +27,8 @@ function App() {
             </li>
           </ul>
         </nav>
-
-        <Router>
+      
+      </header>  <Router>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/produtos" element={<Produtos />} />
@@ -33,7 +36,6 @@ function App() {
           </Routes>
         </Router>
 
-      </header>
     </>
   )
 }
