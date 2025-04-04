@@ -28,7 +28,8 @@ function App() {
           </ul>
         </nav>
       
-      </header>  <Router>
+      </header>  
+      <Router>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/produtos" element={<Produtos />} />
